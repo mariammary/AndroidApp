@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="name" type="id">n</item>
+    <item name="phone" type="id">ph</item>
+    <item name="img" type="id">img</item>
+</resources>
